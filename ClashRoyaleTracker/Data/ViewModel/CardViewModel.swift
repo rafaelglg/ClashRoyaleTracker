@@ -15,7 +15,7 @@ final class CardViewModel {
     var filteredCards: [CardInfoResponse] = []
     
     let networkManager: any NetworkManagerProtocol
-    var cancellables = Set<AnyCancellable>()
+    @ObservationIgnored var cancellables = Set<AnyCancellable>()
     
     var searchText = CurrentValueSubject<String, Never>("")
     var showAlert: Bool = false

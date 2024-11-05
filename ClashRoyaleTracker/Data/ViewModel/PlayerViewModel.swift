@@ -13,7 +13,7 @@ final class PlayerViewModel {
     let networkManager: any NetworkManagerProtocol
     var player: PlayerModel?
     var upcomingChest: UpcomingChestModel?
-    var cancellable = Set<AnyCancellable>()
+    @ObservationIgnored var cancellable = Set<AnyCancellable>()
     
     var showAlert: Bool = false
     var alertMessage: String = ""

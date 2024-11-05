@@ -27,7 +27,7 @@ iOS application to search for Clash Royale players by their tag and display thei
     open ClashRoyaleTracker.xcodeproj
     ```
 3. Make sure to have a Clash Royale API key. You can obtain it from the [official Clash Royale API website](https://developer.clashroyale.com).
-4. Configure the API key in the app’s constants file.
+4. Configure the API key in the app’s ApiKey file.
 
 ## Usage
 
@@ -86,7 +86,7 @@ git clone https://github.com/tuusuario/ClashRoyaleTracker.git
 open ClashRoyaleTracker.xcodeproj
 ```
 3. Asegúrate de tener una clave de la API de Clash Royale. Puedes obtenerla desde el [sitio web oficial de la API de Clash Royale](https://developer.clashroyale.com).
-4. Configura la clave de la API en el archivo de constantes de la aplicación.
+4. Configura la clave de la API en el archivo de ApiKey de la aplicación.
 
 ## Uso
 

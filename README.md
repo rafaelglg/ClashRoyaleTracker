@@ -1,5 +1,69 @@
 # Clash Royale Tracker
 
+
+ENGLISH
+---
+
+# Clash Royale Tracker
+
+iOS application to search for Clash Royale players by their tag and display their stats and details. Created by **Rafael Loggiodice** using SwiftUI and the Combine framework, this app is perfect for Clash Royale fans and is a great addition to a portfolio.
+
+## Features
+
+1. **Search Player by Tag**: Allows the user to search for a specific player by entering their tag. The app makes an API call to Supercell to retrieve the player’s information.
+2. **Show Detailed Stats**: Once the player is found, the app displays all available details, including experience level, trophies, wins, and more.
+
+## Technologies Used
+
+- **SwiftUI**: For creating the user interface of the application.
+- **Combine**: Used to handle asynchronous data fetching from the API in a reactive manner.
+- **Clash Royale API (Supercell)**: The app uses the official API to fetch player information.
+
+## Installation
+
+1. Clone the repository to your local machine:
+    ```bash
+    git clone https://github.com/yourusername/ClashRoyaleTracker.git
+    ```
+2. Open the project in Xcode:
+    ```bash
+    open ClashRoyaleTracker.xcodeproj
+    ```
+3. Make sure to have a Clash Royale API key. You can obtain it from the [official Clash Royale API website](https://developer.clashroyale.com).
+4. Configure the API key in the app’s constants file.
+
+## Usage
+
+1. Open the app and use the search field to enter the Clash Royale player's tag.
+2. The app will perform a search and, if the player is found, will display their stats and details.
+3. If the tag is invalid or the player doesn’t exist, an error message will be displayed.
+
+## Screenshots
+
+![User interface screenshot](./path/to/simulator_screenshot_63143494-F648-4993-B836-EC730FF44105.png)
+
+
+
+## Notes
+
+- **Supercell API**: The app depends on the availability of the Supercell API. Make sure to respect API limits.
+- **Permissions and Privacy**: This app is created solely for portfolio purposes and does not collect or share user information.
+
+## Contributions
+
+Contributions are welcome. If you’d like to improve functionality or report an issue, feel free to open an issue or submit a pull request.
+
+## License
+
+This project is for educational and portfolio use only. It is not affiliated with, endorsed, or sponsored by Supercell.
+
+---
+
+# Clash Royale Tracker
+
+SPANISH
+---
+
 Aplicación de iOS para buscar jugadores de Clash Royale por su tag y mostrar sus estadísticas y cargas en detalle. Creada por Rafael Loggiodice con SwiftUI y el framework Combine, esta aplicación es perfecta para los fans de Clash Royale y una gran adición para el portafolio.
 
 ## Funcionalidades
@@ -34,7 +98,7 @@ open ClashRoyaleTracker.xcodeproj
 
 ## Capturas de Pantalla
 
-*(Aquí puedes agregar capturas de pantalla de la interfaz de usuario mostrando las búsquedas y las cargas a detalle).*
+
 
 ## Notas
 

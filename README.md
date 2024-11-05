@@ -1,10 +1,7 @@
 # Clash Royale Tracker
 
 
-ENGLISH
----
-
-# Clash Royale Tracker
+ENGLISH 🇺🇸
 
 iOS application to search for Clash Royale players by their tag and display their stats and details. Created by **Rafael Loggiodice** using SwiftUI and the Combine framework, this app is perfect for Clash Royale fans and is a great addition to a portfolio.
 
@@ -40,8 +37,9 @@ iOS application to search for Clash Royale players by their tag and display thei
 
 ## Screenshots
 
-![User interface screenshot](./path/to/simulator_screenshot_63143494-F648-4993-B836-EC730FF44105.png)
+![howToFindPlayer](https://github.com/user-attachments/assets/478d0b2a-009d-4889-ac6e-7c4b9d3f1dcd)
 
+![cardList](https://github.com/user-attachments/assets/3031746e-a977-4517-ac8f-751befa7c1d7)
 
 
 ## Notes
@@ -61,7 +59,7 @@ This project is for educational and portfolio use only. It is not affiliated wit
 
 # Clash Royale Tracker
 
-SPANISH
+SPANISH 🇻🇪
 ---
 
 Aplicación de iOS para buscar jugadores de Clash Royale por su tag y mostrar sus estadísticas y cargas en detalle. Creada por Rafael Loggiodice con SwiftUI y el framework Combine, esta aplicación es perfecta para los fans de Clash Royale y una gran adición para el portafolio.
@@ -98,7 +96,9 @@ open ClashRoyaleTracker.xcodeproj
 
 ## Capturas de Pantalla
 
+![howToFindPlayer](https://github.com/user-attachments/assets/478d0b2a-009d-4889-ac6e-7c4b9d3f1dcd)
 
+![cardList](https://github.com/user-attachments/assets/3031746e-a977-4517-ac8f-751befa7c1d7)
 
 ## Notas
 

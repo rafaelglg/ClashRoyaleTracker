@@ -1,0 +1,416 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%lld Trophies" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld Trofeos"
+          }
+        }
+      }
+    },
+    "Apple developer" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Desarrollador Apple"
+          }
+        }
+      }
+    },
+    "Application error" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error en aplicación"
+          }
+        }
+      }
+    },
+    "Arena" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Arena"
+          }
+        }
+      }
+    },
+    "Cards" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cartas"
+          }
+        }
+      }
+    },
+    "Clan Statistics" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Estadísticas del clan"
+          }
+        }
+      }
+    },
+    "Close" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cerrar"
+          }
+        }
+      }
+    },
+    "Come back and paste the code without ''#'' because its already written by default." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Regresa a la app y pega el codigo sin el “#” porque ya se escribe por defecto."
+          }
+        }
+      }
+    },
+    "Current Favorite Card" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Carta favorita"
+          }
+        }
+      }
+    },
+    "Elixir cost: %lld" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Costo de elixir %lld"
+          }
+        }
+      }
+    },
+    "Enter the app and inside tap in your name." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entra a la app y presiona en tu nombre."
+          }
+        }
+      }
+    },
+    "Find your ID and tap, will be copy in your clipboard." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Encuentra el ID, haz click y copia el ID."
+          }
+        }
+      }
+    },
+    "For more info click in this link [Clash Royale Info](https://royaleapi.com/?lang=en)" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Para más información entra aquí [Clash Royale Info](https://royaleapi.com/?lang=en)"
+          }
+        }
+      }
+    },
+    "Help" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ayuda"
+          }
+        }
+      }
+    },
+    "How to find my ID?" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Cómo encontrar mi ID?"
+          }
+        }
+      }
+    },
+    "how to find player ID?" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Cómo encontrar mi ID?"
+          }
+        }
+      }
+    },
+    "how to search?" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Cómo buscar?"
+          }
+        }
+      }
+    },
+    "Invalid player ID" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ID invalido"
+          }
+        }
+      }
+    },
+    "Level %lld" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nivel %lld"
+          }
+        }
+      }
+    },
+    "Max evolution level: %lld" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Evolución máxima %lld"
+          }
+        }
+      }
+    },
+    "Max level:" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nivel máximo"
+          }
+        }
+      }
+    },
+    "Max level: %lld" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nivel máximo %lld"
+          }
+        }
+      }
+    },
+    "No cards found" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Carta no encontrada"
+          }
+        }
+      }
+    },
+    "Player Statistics" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Estadísticas del jugador"
+          }
+        }
+      }
+    },
+    "Players" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jugador"
+          }
+        }
+      }
+    },
+    "Search" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buscar"
+          }
+        }
+      }
+    },
+    "Search a player" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Busca a tu jugador"
+          }
+        }
+      }
+    },
+    "Search by name, rarity or level" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Busca por nombre, rareza o nivel"
+          }
+        }
+      }
+    },
+    "Step 1" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paso 1"
+          }
+        }
+      }
+    },
+    "Step 2" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paso 2"
+          }
+        }
+      }
+    },
+    "Step 3" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paso 3"
+          }
+        }
+      }
+    },
+    "The link will take you to Clash royal official web and more info will be displayed" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Este enlace te llevara al sitio oficial de Clash Royale con mas información"
+          }
+        }
+      }
+    },
+    "There were no result for ''%@''. \n Try a new search." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No hubo resultados para “%@’’. \n Intenta de nuevo."
+          }
+        }
+      }
+    },
+    "This app was developed by Rafael Loggiodice, using 100% **SwiftUI** and **Combine**." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esta app fue desarrollada por Rafael Loggiodice usando 100% **SwiftUI** y **Combine**"
+          }
+        }
+      }
+    },
+    "This card may change" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esta carta puede variar"
+          }
+        }
+      }
+    },
+    "Try again" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Intenta de nuevo"
+          }
+        }
+      }
+    },
+    "Type your player id" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escribe tu ID"
+          }
+        }
+      }
+    },
+    "Upcoming chests" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Próximos cofres"
+          }
+        }
+      }
+    },
+    "You can search by the **name**, **rarity** or **level** of the card" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Puedes buscar por el **nombre**, **rareza** o **nivel** de la carta"
+          }
+        }
+      }
+    },
+    "You can search using name, rarity or level of the card" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Puedes buscar usando el nombre, rareza, o nivel de la carta"
+          }
+        }
+      }
+    },
+    "You need to have downloaded the app ''Clash Royale'' in order to find your ID." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Debes tener descargada la app de “Clash Royale” para poder encontrar tu ID."
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

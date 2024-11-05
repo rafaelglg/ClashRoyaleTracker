@@ -54,7 +54,7 @@ struct SearchPlayerView: View {
             VStack { // to have the divider bar down from textfield
                 HStack { // inside text of texfield
                     
-                    Text("#")
+                    Text(verbatim: "#")
                         .foregroundStyle(Color(.systemGray))
                     
                     TextField(text: $playerVM.textfieldPlayerID) {
